@@ -42,7 +42,7 @@ const VResume = () => {
 
         {/* Button to View on YouTube */}
         <a
-          href="https://www.youtube.com/watch?v=lxonQUjAjvM"
+          href="https://youtu.be/lxonQUjAjvM"
           target="_blank"
           rel="noopener noreferrer"
           className="mt-6 inline-block px-6 py-3 bg-purple-500 text-white font-semibold rounded-lg shadow-md hover:bg-purple-600 transition"
